@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Barfinder Docs
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - APIs:
+      - Account:
+          - Get User Information: apis/account/get-user-information.md
+          - Update User Information: apis/account/update-user-information.md
+      - Connections:
+          - Respond to Friend Request: apis/connections/respond-to-friend-request.md
+      - Map:
+          - Get Nearby Venues (Raw): apis/map/get-nearby-venues.md
+          - Nightlife Query (AI): apis/map/nightlife-query.md
+      - Venue:
+          - Check In To Venue: apis/venue/check-in-to-venue.md
+  - Database:
+    - Accounts: database/account.md
+    - Venues: database/venues.md
