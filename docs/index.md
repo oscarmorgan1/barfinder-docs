@@ -16,7 +16,7 @@ This documentation is intended for:
 
 | BarFinder Mobile | BarFinder Backend | BarFinder Documentation |
 |---|---|---|
-| [Open repo](https://google.com) | [Open repo](https://google.com) | [Open repo](https://google.com) |
+| [Open repo](https://github.com/oscarmorgan1/BarFinder) | [Open repo](https://google.com) | [Open repo](https://github.com/oscarmorgan1/BarFinder-Documentation) |
 
 ---
 
