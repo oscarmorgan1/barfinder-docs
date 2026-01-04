@@ -21,6 +21,7 @@ venues/{venueId}
 ```
 
 Where:
+
 - `venueId` is a canonical, stable identifier
 - Format mirrors Google Places–style IDs
 - One document per real-world venue
